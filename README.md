@@ -55,7 +55,7 @@ Two files will be created
 => Result-other.txt  : urls with other than 200 response.
 ```
 ## Contact : 
-![My Twitter](https://twitter.com/0xAsm0d3us)
+[My Twitter](https://twitter.com/0xAsm0d3us)
 
 ## Wanna show support for the tool ?
 
