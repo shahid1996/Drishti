@@ -1,4 +1,4 @@
-# Drishti : A fast HTTP response status inspector
+# Drishti : A Fast HTTP Response Status Inspector
 
 ![Drishti](https://raw.githubusercontent.com/devanshbatham/Drishti/master/static/drishti.PNG)
 ## What is Drishti 
