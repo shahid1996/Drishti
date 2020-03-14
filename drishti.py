@@ -1,5 +1,6 @@
 '''
 A FAST HTTP RESPONSE STATUS INSPECTOR
+I and NullPxl are working on a Scrapping project , so yes this module is taken from there , kudos to NullPxl
 '''
 
 
