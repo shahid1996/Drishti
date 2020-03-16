@@ -2,7 +2,7 @@
 
 ![Drishti](https://raw.githubusercontent.com/devanshbatham/Drishti/master/static/drishti.PNG)
 ## What is Drishti 
-**_Drishti_** is a Sanskrit word _meaning_ "**sight**" and refers to the **gazing technique** . I create this tool to gaze at the HTTP response of the urls. It filters out the dead urls . I created this tool for my personal use. Now making it public !
+**_Drishti_** is a Sanskrit word _meaning_ "**sight**" and refers to the **gazing technique** . I created this tool to gaze at the HTTP response of the urls. It filters out the dead urls . I created this tool for my personal use. Now making it public !
 
 ## Why 
 
